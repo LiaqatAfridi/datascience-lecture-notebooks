@@ -1,0 +1,4 @@
+list:           [], mutable, slower
+dictionary:     {}, {key values}
+tuple:        (), immutable,  slicing, faster
+set:          {}, {values}, unique values,

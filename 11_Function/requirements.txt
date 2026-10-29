@@ -1,0 +1,5 @@
+pip install streamlit
+
+streamlit --version
+
+python -m streamlit run banking.py
